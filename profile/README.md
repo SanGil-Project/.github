@@ -36,7 +36,7 @@
 | :----: | :--------: | :--------------------------------------------------------------: |
 | 천누리 |   프론트엔드   | [https://github.com/Kopite93](https://github.com/Kopite93)   | 
 | 박예슬 |   프론트엔드   | [https://github.com/parkksss](https://github.com/parkksss)   | 
-| 이재진 |   백엔드   | [[https://github.com/jajn9010](https://github.com/jajn9010)    |
+| 이재진 |   백엔드   | [https://github.com/jajn9010](https://github.com/jajn9010)    |
 | 정상준 |   백엔드   | [https://github.com/jsjune](https://github.com/jsjune)  |
 | 정의현 |   백엔드   | [https://github.com/uihyeon1229](https://github.com/uihyeon1229) |
 

@@ -113,7 +113,6 @@
 
 ---
 
-# 여기까지 했음
 
 ## 📘 주요 라이브러리
 
@@ -132,7 +131,7 @@
 
 [자세한 내용은 여기서 확인해주세요](https://www.notion.so/750cce1827ab4b4b9ba28fcc7aace3c2)
 
-
+<!--
 ## 🔥이슈 및 트러블슈팅
 
  #### 일명 이미지 엑박 문제 - <a href="https://github.com/teaming-project-team3/teaming_frontend/wiki/Code-Splitting%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94">WIKI</a>
@@ -145,6 +144,8 @@
 
 #### Nginx의 로드벨런싱를 이용해 트래픽 분산처리 - <a href="https://github.com/teaming-project-team3/teaming_backend/wiki/Nginx%EC%9D%98-%EB%A1%9C%EB%93%9C%EB%B2%A8%EB%9F%B0%EC%8B%B1%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%ED%8A%B8%EB%9E%98%ED%94%BD-%EB%B6%84%EC%82%B0%EC%B2%98%EB%A6%AC" target="_blank">WIKI</a>
 ---
+
+-->
 
 ## more info
 
@@ -167,7 +168,7 @@
 <summary>DB ERD</summary>
 <div markdown="1">
 
-![ERD](https://user-images.githubusercontent.com/46555489/161620583-918d8dae-76dd-45fc-8467-2439647ebdd2.PNG)
+![ERD](https://user-images.githubusercontent.com/101084941/170719275-bc0c5387-dfea-4735-9953-f914d9973a8b.png)
 
 </div>
 </details>
@@ -176,11 +177,12 @@
 <details>
 <summary>WireFrame</summary>
 <div markdown="1">
-
-![wireframe PNG](https://user-images.githubusercontent.com/46555489/161588493-c7a60eb6-8759-4e94-a019-b999cf6c963c.png)
+![wireframe PNG](https://user-images.githubusercontent.com/101084941/170718981-fb0b3bc5-a539-48f4-a671-3f927da022c8.png)
+![wireframe PNG](https://user-images.githubusercontent.com/101084941/170719095-0d288265-580b-4122-acf1-a84ec32d112b.png)
 
 </div>
 </details>
+
 
 
 

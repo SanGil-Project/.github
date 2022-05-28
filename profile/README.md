@@ -50,8 +50,7 @@
 
 ## 💎Service Architecture
 
-![아키텍처(수정필요)](https://user-images.githubusercontent.com/46555489/161765373-608e48f5-784f-49eb-a5b5-9fad788aab62.png)
-
+![아키텍쳐](https://user-images.githubusercontent.com/101084941/170825259-9b36f7bd-1f50-452e-b405-9a8392b6e3a4.png)
 
 ---
 

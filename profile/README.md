@@ -132,10 +132,10 @@
 
 [자세한 내용은 여기서 확인해주세요](https://www.notion.so/750cce1827ab4b4b9ba28fcc7aace3c2)
 
-<!--
+
 ## 🔥이슈 및 트러블슈팅
 
- #### CI/CD Trouble Shooting - <a href="https://github.com/SanGil-Project/SanGil_BE/wiki/CI-CD-Trouble-Shooting">WIKI</a>
+#### CI/CD Trouble Shooting - <a href="https://github.com/SanGil-Project/SanGil_BE/wiki/CI-CD-Trouble-Shooting">WIKI</a>
 
 #### 영상채팅 과정에서 오디오 하울링 발생 - <a href="https://github.com/teaming-project-team3/teaming_frontend/wiki/webRTC-%EC%98%81%EC%83%81%EC%B1%84%ED%8C%85-audio-%ED%95%98%EC%9A%B8%EB%A7%81-%EB%AC%B8%EC%A0%9C">WIKI</a>
 
@@ -146,7 +146,7 @@
 #### Nginx의 로드벨런싱를 이용해 트래픽 분산처리 - <a href="https://github.com/teaming-project-team3/teaming_backend/wiki/Nginx%EC%9D%98-%EB%A1%9C%EB%93%9C%EB%B2%A8%EB%9F%B0%EC%8B%B1%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%ED%8A%B8%EB%9E%98%ED%94%BD-%EB%B6%84%EC%82%B0%EC%B2%98%EB%A6%AC" target="_blank">WIKI</a>
 ---
 
--->
+
 
 ## more info
 

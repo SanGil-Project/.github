@@ -40,7 +40,7 @@
 
 ### Links
 - [**Home Page**](https://산길.com)
-- [**Team Notion**](https://www.notion.so/Teaming-c266b86faf844358af8b7c1b46c83a1e)
+- [**Team Notion**](https://www.notion.so/4bc091b8477f44a3a14b164b8599a76f?v=ea4b50a3ab81410f88b7e31e660a1415)
 - [**Frontend Repo**](https://github.com/SanGil-Project/SanGil_FE)
 - [**Backend Repo**](https://github.com/SanGil-Project/SanGil_BE)
 - [**Presentation Link**]

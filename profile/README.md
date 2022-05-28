@@ -114,7 +114,7 @@
 | sentry    | 서버로그 기록                             |
 | certbot       |    https 적용                                  |
 
-[자세한 내용은 여기서 확인해주세요] (https://www.notion.so/ba0db82e2b654fb785f96a2cdd8df0b4)
+[자세한 내용은 여기서 확인해주세요](https://www.notion.so/ba0db82e2b654fb785f96a2cdd8df0b4)
 
 ## 🔥이슈 및 트러블슈팅
 

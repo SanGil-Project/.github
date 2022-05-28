@@ -161,8 +161,8 @@
 <details>
 <summary>WireFrame</summary>
 <div markdown="1">
-![wireframe PNG](https://user-images.githubusercontent.com/101084941/170718981-fb0b3bc5-a539-48f4-a671-3f927da022c8.png)
-![wireframe PNG](https://user-images.githubusercontent.com/101084941/170719095-0d288265-580b-4122-acf1-a84ec32d112b.png)
+![wireframe] (https://user-images.githubusercontent.com/101084941/170718981-fb0b3bc5-a539-48f4-a671-3f927da022c8.png)
+![wireframe] (https://user-images.githubusercontent.com/101084941/170719095-0d288265-580b-4122-acf1-a84ec32d112b.png)
 
 </div>
 </details>

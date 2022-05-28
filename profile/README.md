@@ -41,18 +41,6 @@
 | 정의현 |   백엔드   | [https://github.com/uihyeon1229](https://github.com/uihyeon1229) |
 
 
-<!--
-
-|   [장석우](https://github.com/jsw4215) |   
-    [정민수](https://github.com/jeongmisnu)  |   
-    [이원진](https://github.com/WON-JIN-LEE)  |     
-    [전도현](https://www.behance.net/8c7e3f9a/appreciated)    |                                                                                       
-| :----------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | 
-| <img src="https://user-images.githubusercontent.com/46555489/161837676-5a341ff3-5746-47e3-9695-ed2311156346.jpg" alt="프로필 이미지" width="200px"/> |  <img src="https://user-images.githubusercontent.com/46555489/161719951-25b36276-0b36-4f3f-b84e-29d7e7581da0.jpg" alt="프로필 이미지" width="200px"/> | <img src="https://user-images.githubusercontent.com/46555489/161719985-93cbd6ed-399d-4888-9f6c-b883c5ef24c9.jpg" alt="프로필 이미지" width="200px" /> | <img src="https://user-images.githubusercontent.com/46555489/161719970-4e512e8f-5fd9-45b3-8058-7e17b58f89b7.png" alt="프로필 이미지" width="200px" /> 
-|                                                                      `Front-End`                                               |                                                                      `Back-End`                                                                       |                                                                      `Back-End`                                                                          |                                                                       `Designer`                                                                       |                                                                      
-
--->
-
 ### Links
 - [**Home Page**](https://산길.com)
 - [**Team Notion**](https://www.notion.so/Teaming-c266b86faf844358af8b7c1b46c83a1e)
@@ -119,19 +107,18 @@
 
 | 라이브러리    | 설명                                    |  
 | ------------- | --------------------------------------- |
-| mongoose     |     TypeORD                             |
-| socket.io <br>@nestjs/websockets         | 실시간 양방향 통신            |     
-| class-validator    | 유효성 검사                            |
-| dotenv        | 환경변수 설정                          |
-|bcryptjs | Passward 암호화                        |
-| Swagger       | API 문서화                             |
-| helmet       |     XSS(Cross-site scripting) 필터 적용             |
-| @nestjs/throttler   | 무차별 대입 공격에 대한 속도제한        |   
-| @nestjs/passport    | 인증 미들웨어                             |
-| @nestjs/jwt       |    Access Token                                  |
+| Lombok     |     어노테이션 사용                             |
+| Spring Security         | 어플리케이션 보안            |     
+| jjwt    | 로그인 인증                            |
+| Spring Cloud AWS        | AWS S3 이미지 업로드                 |
+| Spring Data JPA | 데이터베이스 JPA 사용                     |
+| Query DSL       | 테이터베이스 Query DSL 사용                            |
+| sockjs <br> stomp-websocket       |     실시간 채팅             |
+| jasypt   | 개인정보 암호화 및 환경변수 설정|   
+| sentry    | 서버로그 기록                             |
+| certbot       |    https 적용                                  |
 
-[자세한 내용은 여기서 확인해주세요](https://www.notion.so/750cce1827ab4b4b9ba28fcc7aace3c2)
-
+[자세한 내용은 여기서 확인해주세요] (https://www.notion.so/ba0db82e2b654fb785f96a2cdd8df0b4)
 
 ## 🔥이슈 및 트러블슈팅
 

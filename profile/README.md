@@ -41,6 +41,7 @@
 ### Links
 - [**Home Page**](https://산길.com)
 - [**Team Notion**](https://www.notion.so/4bc091b8477f44a3a14b164b8599a76f?v=ea4b50a3ab81410f88b7e31e660a1415)
+- [**API**](https://www.notion.so/4bc091b8477f44a3a14b164b8599a76f?v=ea4b50a3ab81410f88b7e31e660a1415)
 - [**Frontend Repo**](https://github.com/SanGil-Project/SanGil_FE)
 - [**Backend Repo**](https://github.com/SanGil-Project/SanGil_BE)
 - [**Presentation Link**]
@@ -141,14 +142,6 @@
 
 
 ## more info
-
-<details>
-<summary>API 명세서</summary>
-<div markdown="1">
-🔗 [API 링크](https://www.notion.so/4bc091b8477f44a3a14b164b8599a76f?v=ea4b50a3ab81410f88b7e31e660a1415)
-
-</div>
-</details>
 
 <details>
 <summary>DB ERD</summary>

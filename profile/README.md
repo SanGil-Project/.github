@@ -93,7 +93,7 @@
 <br>
 </p>
 
-### **Tools(추가예정)**
+### **Tools**
 <p>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
   <img src= "https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>

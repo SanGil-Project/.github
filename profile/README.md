@@ -63,7 +63,7 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=stomp&logoColor=lightblue">
+  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=stomp&logoColor=black">
 <img src="https://img.shields.io/badge/stomp-461D1D?style=for-the-badge&logo=stomp&logoColor=black">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/CloudFront-D05C4B?style=for-the-badge&logo=Amazon AWS&logoColor=white">

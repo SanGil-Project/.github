@@ -145,7 +145,7 @@
 <details>
 <summary>API 명세서</summary>
 <div markdown="1">
-#### 🔗 [API 링크](https://www.notion.so/4bc091b8477f44a3a14b164b8599a76f?v=ea4b50a3ab81410f88b7e31e660a1415) 
+![#### 🔗 API 링크](https://www.notion.so/4bc091b8477f44a3a14b164b8599a76f?v=ea4b50a3ab81410f88b7e31e660a1415) 
 
 </div>
 </details>

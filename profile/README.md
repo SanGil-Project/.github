@@ -58,8 +58,8 @@
 
 ### **Front-end**
 <p>
-<img src="https://img.shields.io/badge/axios-6F02B5?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/immer-00E7C3?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/axios-6F02B5?style=for-the-badge&logo=axios&logoColor=white">
+<img src="https://img.shields.io/badge/immer-00E7C3?style=for-the-badge&logo=immer&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">

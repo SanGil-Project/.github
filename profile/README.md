@@ -122,6 +122,12 @@
 | jasypt   | 개인정보 암호화 및 환경변수 설정|   
 | sentry    | 서버로그 기록                             |
 | certbot       |    https 적용                                  |
+| axios|서버통신| |
+| redux|상태관리| |
+| lodash|디바운스 쓰로틀링을 사용한 렌더링 최소화| |
+| styled-component | 컴포넌트 스타일링 | |
+| sockjs-client | 소켓통신 | |
+| stomp | 소켓통신 | |
 
 [자세한 내용은 여기서 확인해주세요](https://www.notion.so/ba0db82e2b654fb785f96a2cdd8df0b4)
 
@@ -145,7 +151,7 @@
 <details>
 <summary>API 명세서</summary>
 <div markdown="1">
-[🔗API 링크](https://www.notion.so/4bc091b8477f44a3a14b164b8599a76f?v=ea4b50a3ab81410f88b7e31e660a1415)
+#### 🔗 [API 링크](https://www.notion.so/4bc091b8477f44a3a14b164b8599a76f?v=ea4b50a3ab81410f88b7e31e660a1415) 
 
 </div>
 </details>

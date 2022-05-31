@@ -216,7 +216,7 @@
 
 #### CI/CD Trouble Shooting - <a href="https://github.com/SanGil-Project/SanGil_BE/wiki/CI-CD-Trouble-Shooting">WIKI</a>
 
-#### 영상채팅 과정에서 오디오 하울링 발생 - <a href="https://github.com/teaming-project-team3/teaming_frontend/wiki/webRTC-%EC%98%81%EC%83%81%EC%B1%84%ED%8C%85-audio-%ED%95%98%EC%9A%B8%EB%A7%81-%EB%AC%B8%EC%A0%9C">WIKI</a>
+#### DB 성능개선 - <a href="https://github.com/SanGil-Project/SanGil_BE/wiki/DB-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0">WIKI</a>
 
 #### 영상채팅 videoView 동적 추가, 제거 - <a href="https://github.com/teaming-project-team3/teaming_frontend/wiki/%EC%98%81%EC%83%81%EC%B1%84%ED%8C%85-videoView-%EB%8F%99%EC%A0%81-%EC%B6%94%EA%B0%80,-%EC%A0%9C%EA%B1%B0">WIKI</a>
 

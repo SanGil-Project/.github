@@ -218,11 +218,12 @@
 
 #### DB 성능개선 - <a href="https://github.com/SanGil-Project/SanGil_BE/wiki/DB-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0">WIKI</a>
 
-#### 영상채팅 videoView 동적 추가, 제거 - <a href="https://github.com/teaming-project-team3/teaming_frontend/wiki/%EC%98%81%EC%83%81%EC%B1%84%ED%8C%85-videoView-%EB%8F%99%EC%A0%81-%EC%B6%94%EA%B0%80,-%EC%A0%9C%EA%B1%B0">WIKI</a>
+#### Axios Interceptor - <a href="https://github.com/SanGil-Project/SanGil_FE/wiki/Axios-Interceptor">WIKI</a>
 
-#### 소켓으로 유저 포트폴리오 데이터 보내기 - <a href="https://github.com/teaming-project-team3/teaming_frontend/wiki/webRTC%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EC%9C%A0%EC%A0%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%B6%94%EA%B0%80%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%8D%94-%EC%A0%84%EC%86%A1%ED%95%A0-%EC%88%9C-%EC%97%86%EC%9D%84%EA%B9%8C%3F">WIKI</a>
+#### wakeLock api - <a href="https://github.com/SanGil-Project/SanGil_FE/wiki/wakeLock-api">WIKI</a>
 
-#### Nginx의 로드벨런싱를 이용해 트래픽 분산처리 - <a href="https://github.com/teaming-project-team3/teaming_backend/wiki/Nginx%EC%9D%98-%EB%A1%9C%EB%93%9C%EB%B2%A8%EB%9F%B0%EC%8B%B1%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%ED%8A%B8%EB%9E%98%ED%94%BD-%EB%B6%84%EC%82%B0%EC%B2%98%EB%A6%AC" target="_blank">WIKI</a>
+#### 이벤트 버블링 - <a href="https://github.com/SanGil-Project/SanGil_FE/wiki/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%B2%84%EB%B8%94%EB%A7%81">WIKI</a>
+
 ---
 
 
